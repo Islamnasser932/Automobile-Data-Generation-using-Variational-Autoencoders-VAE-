@@ -29,4 +29,4 @@ The Decoder can generate realistic synthetic samples by sampling from the learne
 - **Language:** Python
 - **Library:** PyTorch
 - **Tools:** Pandas, Scikit-learn, Matplotlib
-- 
+  
