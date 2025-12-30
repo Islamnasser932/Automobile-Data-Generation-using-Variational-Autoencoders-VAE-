@@ -29,11 +29,4 @@ The Decoder can generate realistic synthetic samples by sampling from the learne
 - **Language:** Python
 - **Library:** PyTorch
 - **Tools:** Pandas, Scikit-learn, Matplotlib
-
-## 📝 How to Run
-1. Clone the repo: `git clone https://github.com/your-username/automobile-vae.git`
-2. Install dependencies: `pip install torch pandas matplotlib scikit-learn`
-3. Run the notebook/script to train and visualize.
-
----
-*Created as part of my journey in Deep Learning and Generative Models.*
+- 
