@@ -1,4 +1,3 @@
-# Automobile-Data-Generation-using-Variational-Autoencoders-VAE-
 # Automobile Data Generation using Variational Autoencoders (VAE) 🚗🤖
 
 This project demonstrates the power of **Generative AI** applied to tabular data. Using PyTorch, I built a Variational Autoencoder (VAE) to compress automobile specifications into a low-dimensional latent space and generate new, synthetic car data.
